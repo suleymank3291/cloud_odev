@@ -6,7 +6,7 @@ TaskFlow, kişisel ve ekip bazlı görevleri modern, hızlı ve yenilikçi bir a
 
 - **Canlı Site:** [TaskFlow Dashboard (AWS S3)](http://taskflowcloud.s3-website.eu-north-1.amazonaws.com)
 - **Backend API:** [API Endpoint (AWS EC2)](http://51.20.123.148:3001/tasks)
-- **GitHub Repository:** [TaskFlow Repo](https://github.com/KULLANICI_ADI/TaskFlow)
+- **GitHub Repository:** [TaskFlow Repo](https://github.com/suleymank3291/cloud_odev)
 
 ---
 
